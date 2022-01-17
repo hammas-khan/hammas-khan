@@ -1,6 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
-<!-- <img width="100%" height = "250px" src="hammas.png" alt="cover" /> -->
+<img width="100%" height = "250px" src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
